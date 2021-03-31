@@ -1,0 +1,15 @@
+Program powstał jako efekt uboczny nauki Windows Forms w C#.
+Jest to prosty zegarek korzystający z kontrolek ProgressBar.
+
+Pytania i sugestie: zed1200@interia.pl
+Zaglądajcie na: https://github.com/Zed1200
+
+Tłumaczenie na angielski google translator
+
+The program was created as a side effect of learning Windows Forms in C #.
+It is a simple watch that uses the ProgressBar controls.
+
+Questions and suggestions: zed1200@interia.pl
+Keep an eye on: https://github.com/Zed1200
+
+Translation into english google translator
